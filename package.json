@@ -1,0 +1,28 @@
+{
+  "name": "ajour",
+  "version": "0.0.3",
+  "description": "A simple command line journaling tool",
+  "bin": "bin/ajour.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebdens/ajour.git"
+  },
+  "keywords": [
+    "cli",
+    "journal",
+    "journaling",
+    "note",
+    "notebook"
+  ],
+  "dependencies": {
+    "minimist":"1.1.0"
+  },
+  "author": "Sebdens",
+  "license": "MIT",
+  
+  },
+  "homepage": "https://github.com/sebdens/ajour"
+}
